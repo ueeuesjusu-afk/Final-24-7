@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Real_GOAT",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Real_GOAT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "THUG000LIFE.aternos.me",
+    "port": 38764,
     "version": "1.20.1",
     "try-creative": false
   },
