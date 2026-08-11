@@ -1,0 +1,13 @@
+FINAL BOT SETTINGS VERIFIED
+
+Movement: ON
+Waypoint/circle radius: 7 blocks
+Movement interval: 4000 ms
+Look-around: ON, every 7000 ms
+Random jump: ON, every 20000 ms
+Stuck recovery: ON (existing bot code)
+Auto reconnect: ON (5s initial / 60s max)
+Chat messages: OFF
+
+The server connection settings were preserved exactly.
+No hosting/server configuration was changed.
