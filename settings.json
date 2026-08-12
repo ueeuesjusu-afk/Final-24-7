@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THUG000LIFE.aternos.me",
-    "port": 38764,
+    "ip": "THUG000LIFE-mXM2.aternos.me",
+    "port": 30246,
     "version": "1.20.1",
     "try-creative": false
   },
